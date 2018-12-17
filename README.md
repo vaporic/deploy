@@ -1,6 +1,6 @@
 # Deploy Config
 
-# Bugs Fix
+# Bugs Fix.
 BugFix:
 /bin/sh^M: bad interpreter:
 Solve:
