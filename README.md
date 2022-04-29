@@ -1,7 +1,6 @@
 # Deploy Config
 
-# Bugs Fix.
-BugFix:
+### Bugs Fix.
 ```/bin/sh^M: bad interpreter:```
 ```Solve:
 vim deploy.sh
