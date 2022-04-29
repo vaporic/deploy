@@ -2,8 +2,8 @@
 
 # Bugs Fix.
 BugFix:
-/bin/sh^M: bad interpreter:
-Solve:
+```/bin/sh^M: bad interpreter:```
+```Solve:
 vim deploy.sh
 :set fileformat=unix
-:x! or :wq!
+:x! or :wq!```
